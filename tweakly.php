@@ -3,7 +3,7 @@
  * Plugin Name: Tweakly
  * Plugin URI:  https://jeweltheme.com/tweakly
  * Description: Admin Tweaks Plugin
- * Version:     1.0.0
+ * Version:     1.0.1
  * Author:      Jewel Theme
  * Author URI:  https://jeweltheme.com
  * Text Domain: tweakly
